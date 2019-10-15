@@ -1,0 +1,37 @@
+{
+  "name": "helloreact2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Ryan-Mobley/helloreact2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The-Ryan-Mobley/helloreact2/issues"
+  },
+  "homepage": "https://github.com/The-Ryan-Mobley/helloreact2#readme",
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "css-loader": "^3.2.0",
+    "webpack": "^4.41.2"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.6.3",
+    "@babel/preset-react": "^7.6.3",
+    "babel-loader": "^8.0.6",
+    "express": "^4.17.1",
+    "jsx": "^0.9.89",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "react-hot-loader": "^4.12.15",
+    "style-loader": "^1.0.0"
+  }
+}
