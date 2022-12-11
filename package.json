@@ -27,7 +27,7 @@
     "@babel/preset-env": "^7.6.3",
     "@babel/preset-react": "^7.6.3",
     "babel-loader": "^8.0.6",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jsx": "^0.9.89",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
